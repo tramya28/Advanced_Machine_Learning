@@ -1,4 +1,3 @@
-#Assignment 1
 Develop and implement Naïve Bayes classifier for detection of buyer’s attitude towards products sold at Amazon. 
 Use Bose SoundSport, Wireless Workout Earbuds as an example - https://www.amazon.com/Bose-SoundSport-Wireless-Headphones-Aqua/dp/B01L7PWBRG/ref=sr_1_8?crid=3GW9D8LJITVRJ&keywords=bose+headphones&qid=1567607915&s=gateway&sprefix=bose+headphones%2Caps%2C174&sr=8-8
 
